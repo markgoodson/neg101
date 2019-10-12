@@ -56,9 +56,9 @@ Ethics
 - It's a small world and getting smaller
 - You may be dealing with someone for a very long time
 - Beware the temptations
--   The lure of temptation [Hegarty & Sims, Universities of Indiana and Maryland]
--   Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University] Powerlessness: Studies found that a lack of outside options increased negotiator deception
--   Anonymous victims
+    - The lure of temptation [Hegarty & Sims, Universities of Indiana and Maryland]
+    - Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University] Powerlessness: Studies found that a lack of outside options increased negotiator deception
+    - Anonymous victims
 ---
 Preparation
 The importance of preparation
