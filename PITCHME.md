@@ -18,23 +18,22 @@ Exercises
 ---
 
 ## What is negotiation?
-@ol
-@snap[text-06]
+
+@snap[text-left text-06]
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
 @snapend
 
-@snap[text-06]
+@snap[text-left text-06]
 - Bargaining (give and take) process between two or more parties (each with its own aims, needs, and viewpoints) seeking to discover a common ground and reach an agreement to settle a matter of mutual concern or resolve a conflict [Business Dictionary]
 @snapend
 
-@snap[text-06]
+@snap[text-left text-06]
 - The deliberation, discussion, or conference upon the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or other business transaction [The Law Dictionary]
 @snapend
 
-@snap[text-06]
+@snap[text-left text-06]
 - It involves people interacting to achieve an agreement to get something done [Goodson 2018]
 @snapend
-@olend
 
 ---
 ## Negotiaphobia
