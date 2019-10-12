@@ -21,7 +21,7 @@ Ethics
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
 - Bargaining (give and take) process between two or more parties (each with its own aims, needs, and viewpoints) seeking to discover a common ground and reach an agreement to settle a matter of mutual concern or resolve a conflict [Business Dictionary]
 - The deliberation, discussion, or conference upon the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or other business transaction [The Law Dictionary]
-It involves people interacting to achieve an agreement to get something done [Goodson 2018]
+- It involves people interacting to achieve an agreement to get something done [Goodson 2018]
 ---
 ## Negotiaphobia
 - Like sales, negotiation is something that a lot of people don't like doing. Why?
@@ -51,6 +51,7 @@ It involves people interacting to achieve an agreement to get something done [Go
 "... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
 ---
 ## Ethics
+@snap[text-07]
 - We are the good guys
 - It's a small world and getting smaller
 - You may be dealing with someone for a very long time
