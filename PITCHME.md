@@ -16,6 +16,7 @@ Exercises
 - The reality
 - Ethics
 ---
+
 ## What is negotiation?
 
 @snap[text-07]
@@ -53,6 +54,7 @@ Exercises
 - Buyer: You've got nothing to lose...
 - "... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
 ---
+
 ## Ethics
 
 @snap[text-07]
