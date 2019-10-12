@@ -19,8 +19,7 @@ Exercises
 
 ## What is negotiation?
 
-@snap[text-left text-06]
-- The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
+- @snap[text-left text-06]The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
 @snapend
 
 @snap[text-left text-06]
