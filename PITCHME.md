@@ -14,7 +14,7 @@ Exercises
 - Goal of negotiation
 - Why does negotiating matter?
 - The reality
-Ethics
+- Ethics
 ---
 @snap[text-07]
 ## What is negotiation?
@@ -48,7 +48,7 @@ Ethics
 - It’s about people
 - Seller: You know they want the product/service, we're just coming up with a way of making it work
 - Buyer: You've got nothing to lose...
-"... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
+- "... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
 ---
 ## Ethics
 @snap[text-07]
@@ -83,14 +83,16 @@ Ethics
 - What's your "walk away/bottom line" and why?
 - What's your min/max credible offer?
 - Be able to justify what you want
+---
 ## Power in a negotiation
 - Really perceived power
 - Act as if you're willing to walk away
 - Never appear desperate, never “a deal at any price"
-- Resist intimidation e.g. flash premises, big title, making you wait
+- Resist intimidation e.g. flash #/9premises, big title, making you wait
 - Transactional analysis: Adult-adult [Games People Play, Eric Berne]
 ---
 ## Tilting the playing field in your favour
+@snap[text-07]
 - Location
 - Time
 - Numbers
@@ -101,7 +103,8 @@ Ethics
 - The power of legitimacy
     - The power of the written word
     - List prices
-Example... maintenance is not negotiable
+    - Example... maintenance is not negotiable  
+@snapend
 ---
 ## Sizing up the situation
 Are you in a negotiation or still selling?
