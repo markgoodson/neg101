@@ -18,7 +18,7 @@ Exercises
 ---
 
 ## What is negotiation?
-
+@ol
 @snap[text-06]
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
 @snapend
@@ -34,6 +34,7 @@ Exercises
 @snap[text-06]
 - It involves people interacting to achieve an agreement to get something done [Goodson 2018]
 @snapend
+@olend
 
 ---
 ## Negotiaphobia
