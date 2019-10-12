@@ -1,6 +1,6 @@
-Negotiation 101
---- 
 # Negotiation 101
+--- 
+## Negotiation 101
 - Introduction to negotiation
 - Preperation
 - Opening
@@ -8,7 +8,7 @@ Negotiation 101
 - Closing
 Exercises
 ---
-# Introduction to negotiation
+## Introduction to negotiation
 - What is negotiation?
 - Negotiaphobia
 - Goal of negotiation
@@ -16,11 +16,12 @@ Exercises
 - The reality
 Ethics
 ---
-What is negotiation?
-The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
-Bargaining (give and take) process between two or more parties (each with its own aims, needs, and viewpoints) seeking to discover a common ground and reach an agreement to settle a matter of mutual concern or resolve a conflict [Business Dictionary]
-The deliberation, discussion, or conference upon the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or other business transaction [The Law Dictionary]
+## What is negotiation?
+- The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
+- Bargaining (give and take) process between two or more parties (each with its own aims, needs, and viewpoints) seeking to discover a common ground and reach an agreement to settle a matter of mutual concern or resolve a conflict [Business Dictionary]
+- The deliberation, discussion, or conference upon the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or other business transaction [The Law Dictionary]
 It involves people interacting to achieve an agreement to get something done [Goodson 2018]
+---
 Negotiaphobia
 Like sales, negotiation is something that a lot of people don't like doing. Why?
 Fear of failure
