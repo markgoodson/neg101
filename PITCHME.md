@@ -22,37 +22,42 @@ Ethics
 - The deliberation, discussion, or conference upon the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or other business transaction [The Law Dictionary]
 It involves people interacting to achieve an agreement to get something done [Goodson 2018]
 ---
-Negotiaphobia
-Like sales, negotiation is something that a lot of people don't like doing. Why?
-Fear of failure
-Fear of confrontation
-Goal of negotiation
-What are we trying to achieve?
-Win-win?
-We are always trying to win
-Never complain... negotiate a solution
-Why does negotiating matter?
-A lot of important things can hang on it
-War
-Trade/economic success
-The success of your venture
-
-The reality
-It's creative
-It's real-time
-It’s about people
-Seller: You know they want the product/service, we're just coming up with a way of making it work
-Buyer: You've got nothing to lose...
-"Human beings are born solitary, but everywhere they are in chains - daisy chains - of interactivity. Social actions are makeshift forms, often courageous, sometimes ridiculous, always strange. And in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
-    Ethics
-We are the good guys
-It's a small world and getting smaller
-You may be dealing with someone for a very long time
-Beware the temptations
-The lure of temptation [Hegarty & Sims, Universities of Indiana and Maryland]
-Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University]
-Powerlessness: Studies found that a lack of outside options increased negotiator deception
-Anonymous victims
+## Negotiaphobia
+- Like sales, negotiation is something that a lot of people don't like doing. Why?
+- Fear of failure
+- Fear of confrontation
+---
+## Goal of negotiation
+- What are we trying to achieve?
+- Win-win?
+- We are always trying to win
+- Never complain... negotiate a solution
+---
+## Why does negotiating matter?
+- A lot of important things can hang on it
+- War
+- Trade/economic success
+- The success of your venture
+---
+## The danger of price-based competition
+---
+## The reality
+- It's creative
+- It's real-time
+- It’s about people
+- Seller: You know they want the product/service, we're just coming up with a way of making it work
+- Buyer: You've got nothing to lose...
+"... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
+---
+## Ethics
+- We are the good guys
+- It's a small world and getting smaller
+- You may be dealing with someone for a very long time
+- Beware the temptations
+-   The lure of temptation [Hegarty & Sims, Universities of Indiana and Maryland]
+-   Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University] Powerlessness: Studies found that a lack of outside options increased negotiator deception
+-   Anonymous victims
+---
 Preparation
 The importance of preparation
 Set your goal
