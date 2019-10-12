@@ -51,6 +51,7 @@ Exercises
 - "... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
 ---
 ## Ethics
+
 @snap[text-07]
 - We are the good guys
 - It's a small world and getting smaller
@@ -61,6 +62,7 @@ Exercises
     - Powerlessness: Studies found that a lack of outside options increased negotiator deception
     - Anonymous victims
 @snapend
+
 ---
 ## Preparation
 - The importance of preparation
@@ -88,11 +90,12 @@ Exercises
 - Really perceived power
 - Act as if you're willing to walk away
 - Never appear desperate, never “a deal at any price"
-- Resist intimidation e.g. flash #/9premises, big title, making you wait
+- Resist intimidation e.g. flash premises, big title, making you wait
 - Transactional analysis: Adult-adult [Games People Play, Eric Berne]
 ---
 ## Tilting the playing field in your favour
-@snap[text-07]
+
+@snap[text -07]
 - Location
 - Time
 - Numbers
@@ -105,6 +108,7 @@ Exercises
     - List prices
     - Example... maintenance is not negotiable  
 @snapend
+
 ---
 ## Sizing up the situation
 Are you in a negotiation or still selling?
@@ -133,13 +137,14 @@ Maximisers and satisficers [Schwartz, Swarthmore College]
 - How to start?
 - Attitude, if we do want a win-win situation
 ---
-Preliminaries
-It's helpful to connect as a human being
-Not being creepy... but less likely to be unethical
-Manners
-Professional, business-like, but friendly and open to discussion
+## Preliminaries
+- It's helpful to connect as a human being
+- Not being creepy... but less likely to be unethical
+- Manners
+- Professional, business-like, but friendly and open to discussion
 Set the scene... you're there to see if you can reach an agreement and do some business
-How to start?
+---
+## How to start?
 Let them go first?
 Research says generally not effective
 Perhaps if the issue is complex and they are experienced
