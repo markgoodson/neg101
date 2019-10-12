@@ -57,70 +57,79 @@ Ethics
 - You may be dealing with someone for a very long time
 - Beware the temptations
     - The lure of temptation [Hegarty & Sims, Universities of Indiana and Maryland]
-    - Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University] Powerlessness: Studies found that a lack of outside options increased negotiator deception
+    - Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University] 
+    - Powerlessness: Studies found that a lack of outside options increased negotiator deception
     - Anonymous victims
+@snapend
 ---
-Preparation
-The importance of preparation
-Set your goal
-Power in a negotiation
-Tilting the playing field in your favour
-Sizing up the situation
-BATNA
-BATNA for sellers
-Exercise: Understanding your negotiables
-    The importance of preparation
-Don't be surprised if someone wants to negotiate!
-Got to be credible
-It may be messy: The better we manage and cope with the inherent uncertainty and unpredictability of negotiation, the more effective we will be
-Information is power
-Set your goal
-What's your ideal deal?
-What's your "walk away/bottom line" and why?
-What's your min/max credible offer?
-Be able to justify what you want
-Power in a negotiation
-Really perceived power
-Act as if you're willing to walk away
-Never appear desperate, never “a deal at any price"
-Resist intimidation e.g. flash premises, big title, making you wait
-Transactional analysis: Adult-adult [Games People Play, Eric Berne]
-Tilting the playing field in your favour
-Location
-Time
-Numbers
-Take a colleague?
-If you do, make sure you are well drilled
-Good cop, bad cop
-Try not to sit on opposite sides of the table
-The power of legitimacy
-The power of the written word
-List prices
+## Preparation
+- The importance of preparation
+- Set your goal
+- Power in a negotiation
+- Tilting the playing field in your favour
+- Sizing up the situation
+- BATNA
+- BATNA for sellers
+- *Exercise: Understanding your negotiables*
+---
+## The importance of preparation
+- Don't be surprised if someone wants to negotiate!
+- Got to be credible
+- It may be messy: The better we manage and cope with the inherent uncertainty and unpredictability of negotiation, the more effective we will be
+- Information is power
+---
+## Set your goal
+- What's your ideal deal?
+- What's your "walk away/bottom line" and why?
+- What's your min/max credible offer?
+- Be able to justify what you want
+## Power in a negotiation
+- Really perceived power
+- Act as if you're willing to walk away
+- Never appear desperate, never “a deal at any price"
+- Resist intimidation e.g. flash premises, big title, making you wait
+- Transactional analysis: Adult-adult [Games People Play, Eric Berne]
+---
+## Tilting the playing field in your favour
+- Location
+- Time
+- Numbers
+    - Take a colleague?
+    - If you do, make sure you are well drilled
+    - Good cop, bad cop
+    - Try not to sit on opposite sides of the table
+- The power of legitimacy
+    - The power of the written word
+    - List prices
 Example... maintenance is not negotiable
-
-Sizing up the situation
+---
+## Sizing up the situation
 Are you in a negotiation or still selling?
 Zero-sum or win-win?
 Are they willing to work with you?
 How skilled a negotiator are they?
 Maximisers and satisficers [Schwartz, Swarthmore College]
-BATNA
-Best Alternative To a Negotiated Agreement
-An insurance policy
-Gives you confidence
-Two (or more) BATNAs are better than one
-Don’t Reveal a Weak BATNA.
-BATNA for sellers
-Only have capacity to work with one customer/partner at the moment
-Consulting: Have a slot for your project, if you miss it...
-Delivery... they need to order now to get it in time
-Important they understand you are in demand
-Time - If they don't buy it, someone else will... soon!
-USP - Features, advantages, BENEFITS
-Opening
-Preliminaries
-How to start?
-Attitude, if we do want a win-win situation
+---
+## BATNA
+- **B**est **A**lternative **T**o **a** **N**egotiated **A**greement
+- An insurance policy
+- Gives you confidence
+- Two (or more) BATNAs are better than one
+- Don’t Reveal a Weak BATNA.
+---
+## BATNA for sellers
+- Only have capacity to work with one customer/partner at the moment
+- Consulting: Have a slot for your project, if you miss it...
+- Delivery... they need to order now to get it in time
+- Important they understand you are in demand
+- Time - If they don't buy it, someone else will... soon!
+- USP - Features, advantages, BENEFITS
+---
+## Opening
+- Preliminaries
+- How to start?
+- Attitude, if we do want a win-win situation
+---
 Preliminaries
 It's helpful to connect as a human being
 Not being creepy... but less likely to be unethical
