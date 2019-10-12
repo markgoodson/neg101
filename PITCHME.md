@@ -18,13 +18,10 @@ Exercises
 ---
 
 ## What is negotiation?
-
-@snap[text-07]
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
 - Bargaining (give and take) process between two or more parties (each with its own aims, needs, and viewpoints) seeking to discover a common ground and reach an agreement to settle a matter of mutual concern or resolve a conflict [Business Dictionary]
 - The deliberation, discussion, or conference upon the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or other business transaction [The Law Dictionary]
 - It involves people interacting to achieve an agreement to get something done [Goodson 2018]
-@snapend
 
 ---
 ## Negotiaphobia
@@ -57,7 +54,6 @@ Exercises
 
 ## Ethics
 
-@snap[text-07]
 - We are the good guys
 - It's a small world and getting smaller
 - You may be dealing with someone for a very long time
@@ -66,7 +62,6 @@ Exercises
     - Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University] 
     - Powerlessness: Studies found that a lack of outside options increased negotiator deception
     - Anonymous victims
-@snapend
 
 ---
 ## Preparation
@@ -100,7 +95,6 @@ Exercises
 ---
 ## Tilting the playing field in your favour
 
-@snap[text -07]
 - Location
 - Time
 - Numbers
@@ -112,7 +106,6 @@ Exercises
     - The power of the written word
     - List prices
     - Example... maintenance is not negotiable  
-@snapend
 
 ---
 ## Sizing up the situation
