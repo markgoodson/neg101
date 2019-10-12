@@ -16,6 +16,7 @@ Exercises
 - The reality
 Ethics
 ---
+@snap[text-07]
 ## What is negotiation?
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
 - Bargaining (give and take) process between two or more parties (each with its own aims, needs, and viewpoints) seeking to discover a common ground and reach an agreement to settle a matter of mutual concern or resolve a conflict [Business Dictionary]
