@@ -2,8 +2,4 @@
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : 
-#
-
-# text size hopefully
-theme-override : text-06
+theme : simple
