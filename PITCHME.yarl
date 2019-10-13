@@ -6,4 +6,4 @@ theme :
 #
 
 # text size hopefully
-text-06
+theme-override : text-06
