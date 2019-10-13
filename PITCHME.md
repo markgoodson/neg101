@@ -16,7 +16,7 @@ Exercises
 - The reality
 - Ethics
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-07]
 ## What is negotiation?
 
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
@@ -141,7 +141,7 @@ Exercises
 - Professional, business-like, but friendly and open to discussion
 - Set the scene... you're there to see if you can reach an agreement and do some business
 ---
-@snap[midpoint span-90 text-05]
+@snap[midpoint span-90 text-07]
 ## How to start?
 - Let them go first?
     - Research says generally not effective
@@ -161,7 +161,7 @@ Exercises
 - Create win-win situation
 - Flexibility, don't dig trenches
 ---
-@snap[midpoint span-90 text-05]
+@snap[midpoint span-90 text-07]
 ## Bargaining
 - The most important (two letter) word in negotiation
 - Asking questions
