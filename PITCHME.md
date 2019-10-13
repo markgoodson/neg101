@@ -119,7 +119,7 @@ Exercises
 - An insurance policy
 - Gives you confidence
 - Two (or more) BATNAs are better than one
-- Don’t Reveal a Weak BATNA.
+- Don’t Reveal a Weak BATNA
 ---
 ## BATNA for sellers
 - Only have capacity to work with one customer/partner at the moment
@@ -141,7 +141,7 @@ Exercises
 - Professional, business-like, but friendly and open to discussion
 - Set the scene... you're there to see if you can reach an agreement and do some business
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-05]
 ## How to start?
 - Let them go first?
     - Research says generally not effective
@@ -161,7 +161,7 @@ Exercises
 - Create win-win situation
 - Flexibility, don't dig trenches
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-05]
 ## Bargaining
 - The most important (two letter) word in negotiation
 - Asking questions
