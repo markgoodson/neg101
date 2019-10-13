@@ -52,9 +52,8 @@ Exercises
 - Buyer: You've got nothing to lose...
 - "... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
 ---
-
-## Ethics
 @snap[midpoint span-90 text-06]
+## Ethics
 - We are the good guys
 - It's a small world and getting smaller
 - You may be dealing with someone for a very long time
@@ -162,6 +161,7 @@ Exercises
 - Create win-win situation
 - Flexibility, don't dig trenches
 ---
+@snap[midpoint span-90 text-06]
 ## Bargaining
 - The most important (two letter) word in negotiation
 - Asking questions
@@ -172,6 +172,7 @@ Exercises
 - General tactics
 - Win-win tactics
 - Deadlock
+@snapend
 ---
 ## The most important (two letter) word in negotiation
 - IF
@@ -180,14 +181,16 @@ Exercises
 - Important to know your negotiables
 - It’s why negotiation is *creative*
 ---
+@snap[midpoint span-90 text-06]
 ## Asking questions
-Like sales
+- Like sales
 - "Great negotiators are great listeners" [Former NYPD detective Dominick Misino]
 - Need to understand their position. Are their requests a real, low or high priority?
 - If they ask a question, ask one back
 - Dig. "What's the thinking behind your request?" e.g. Joe memarts
 - The power of "what if?" - e.g. app developer
 - Power of silence... when you ask for something
+@snapend
 ---
 ## Take notes
 - Shows you're serious and interested
@@ -206,6 +209,7 @@ Like sales
 - Split the difference? : NO! : Low/high offer then small movement
 - Jam tomorrow [Lewis Carroll]
 ---
+@snap[midpoint span-90 text-06]
 ## Dealing with angry/pushy negotiators
 - Don't react
 - If you *do* react, don't over-react
@@ -214,6 +218,7 @@ Like sales
     - Let them blow themselves out
 - Ask questions
 - Should you ever lose your temper (or appear to)?
+@snapend
 ---
 ## Price
 - Price reduction request
