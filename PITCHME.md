@@ -93,8 +93,8 @@ Exercises
 - Resist intimidation e.g. flash premises, big title, making you wait
 - Transactional analysis: Adult-adult [Games People Play, Eric Berne]
 ---
-## Tilting the playing field in your favour
 @snap[midpoint span-90 text-06]
+## Tilting the playing field in your favour
 - Location
 - Time
 - Numbers
@@ -109,11 +109,11 @@ Exercises
 @snapend
 ---
 ## Sizing up the situation
-Are you in a negotiation or still selling?
-Zero-sum or win-win?
-Are they willing to work with you?
-How skilled a negotiator are they?
-Maximisers and satisficers [Schwartz, Swarthmore College]
+- Are you in a negotiation or still selling?
+- Zero-sum or win-win?
+- Are they willing to work with you?
+- How skilled a negotiator are they?
+- Maximisers and satisficers [Schwartz, Swarthmore College]
 ---
 ## BATNA
 - **B**est **A**lternative **T**o **a** **N**egotiated **A**greement
@@ -142,6 +142,7 @@ Maximisers and satisficers [Schwartz, Swarthmore College]
 - Professional, business-like, but friendly and open to discussion
 - Set the scene... you're there to see if you can reach an agreement and do some business
 ---
+@snap[midpoint span-90 text-06]
 ## How to start?
 - Let them go first?
     - Research says generally not effective
@@ -152,6 +153,7 @@ Maximisers and satisficers [Schwartz, Swarthmore College]
     - Leave yourself some negotiating room
 - Shock them with your first offer?
 - Go with the highest/lowest credible offer
+@snapend
 ---
 ## Attitude, if we do want a win-win situation
 - Zero-Sum game. Fixed size pie.
@@ -160,95 +162,113 @@ Maximisers and satisficers [Schwartz, Swarthmore College]
 - Create win-win situation
 - Flexibility, don't dig trenches
 ---
-Bargaining
-The most important (two letter) word in negotiation
-Asking questions
-Take notes
-Beware!
-Dealing with angry/pushy negotiators
-Price
-General tactics
-Win-win tactics
-Deadlock
-The most important (two letter) word in negotiation
-IF
-Trading
-Conceding isn't negotiating
-Important to know your negotiables
-It’s why negotiation is creative
-Asking questions
+## Bargaining
+- The most important (two letter) word in negotiation
+- Asking questions
+- Take notes
+- Beware!
+- Dealing with angry/pushy negotiators
+- Price
+- General tactics
+- Win-win tactics
+- Deadlock
+---
+## The most important (two letter) word in negotiation
+- IF
+- Trading
+- Conceding isn't negotiating
+- Important to know your negotiables
+- It’s why negotiation is *creative*
+---
+## Asking questions
 Like sales
-"Great negotiators are great listeners" [Former New York City detective Dominick Misino]
-Need to understand their position. Are their requests a real, low or high priority?
-If they ask a question, ask one back
-Dig. "What's the thinking behind your request?" e.g. Joe memarts
-The power of "what if?" - e.g. app developer
-Power of silence... when you ask for something
-Take notes
-Shows you're serious and interested
-Gives you thinking time
-Stops you reacting
-How do you know what you've agreed?!
-Summarise
-Beware!
-The Salami Technique
-Nothing is agreed until it's all agreed
-Detailed breakdowns
-Seller: Avoid
-Buyer: Always ask
-The worst thing you can do as a negotiator
-Split the difference? : NO! : Low/high offer then small movement
-Jam tomorrow [Lewis Carroll]
-Dealing with angry/pushy negotiators
-Don't react
-If you do react, don't over-react
-Dealing with threats
-Are they serious?
-Let them blow themselves out
-Ask questions
-Should you ever lose your temper (or appear to)?
-Price
-Price reduction request
-Once again... ASK QUESTIONS
-Is it a real need?
-Or are they "just trying it on"?
-Focus on total cost
-Remind them of all the value they are getting
-Don't change the price, change the package
-General tactics
-Be prepared to justify what you're asking for
-You need someone else's permission
-The "Mother Hubbard"
-Trial balloon e.g. "I hear the going rate is £x/day"
-Deadlines : Real or artificial
-Budgets: Real or artificial
-If you have to throw something in make sure they know the value
-Remember your BATNA(s)
-Win-win tactics
-Think about both the other side's personal and business/organisation objectives
-Demands/ultimatums: Acknowledge and reframe to a more positive/joint focus
-By working together on a solution (win-win) we can perhaps make a bigger pie
-Brainstorm and decide – By brainstorming, you can often find unexpected solutions to difficult negotiations
-Address the underlying concern – Honestly address the concern behind a difficult situation
-Importance of language - How can we work on this problem together?
-Be willing to trade, if it makes sense
-Deadlock
-Bring in other people, or a third party
-Take a step back, then move forward again
-Take a "time out"
-Avoid postponement
-Closing
-Careful about pushing your luck... when you've got your main demand adding more and more extras
-"It sounds like we have an agreement"
-Summarise and shake on it
-Make sure there is nothing else... no "Columbo" moment
-Agree next steps – Who, what, when?
-Writing it up - "If you’ve got it in writing, you’ve got a prayer. If it ain’t in writing, you’ve got thin air"
-Don't rub their noses in it, stay professional
-Debrief
-Follow up
-Exercises
-What are your negotiables?
-What have you negotiated on recently?
-Example: You have to hire a dev to do your website/app
-How can you practice your negotiating skills?
+- "Great negotiators are great listeners" [Former NYPD detective Dominick Misino]
+- Need to understand their position. Are their requests a real, low or high priority?
+- If they ask a question, ask one back
+- Dig. "What's the thinking behind your request?" e.g. Joe memarts
+- The power of "what if?" - e.g. app developer
+- Power of silence... when you ask for something
+---
+## Take notes
+- Shows you're serious and interested
+- Gives you thinking time
+- Stops you reacting
+- How do you know what you've agreed?!
+- Summarise
+---
+## Beware!
+- The Salami Technique
+- Nothing is agreed until it's all agreed
+- Detailed breakdowns
+- Seller: Avoid
+- Buyer: Always ask
+- The worst thing you can do as a negotiator
+- Split the difference? : NO! : Low/high offer then small movement
+- Jam tomorrow [Lewis Carroll]
+---
+## Dealing with angry/pushy negotiators
+- Don't react
+- If you *do* react, don't over-react
+- Dealing with threats
+    - Are they serious?
+    - Let them blow themselves out
+- Ask questions
+- Should you ever lose your temper (or appear to)?
+---
+## Price
+- Price reduction request
+- Once again... ASK QUESTIONS
+- Is it a real need?
+- Or are they "just trying it on"?
+- Focus on total cost
+- Remind them of all the **value** they are getting
+- Don't change the price, change the *package*
+---
+@snap[midpoint span-90 text-06]
+## General tactics
+- Be prepared to justify what you're asking for
+- You need someone else's permission
+- The "Mother Hubbard"
+- Trial balloon e.g. "I hear the going rate is £x/day"
+- Deadlines : Real or artificial
+- Budgets: Real or artificial
+- If you have to throw something in make sure they know the value
+- Remember your BATNA(s)
+- If it all gets too much call a time-out
+@snapend
+---
+@snap[midpoint span-90 text-06]
+## Win-win tactics
+- Think about both the other side's personal and business/organisation objectives
+- Demands/ultimatums: Acknowledge and reframe to a more positive/joint focus
+- By working together on a solution (win-win) we can perhaps make a bigger pie
+- Brainstorm and decide – By brainstorming, you can often find unexpected solutions to difficult negotiations
+- Address the underlying concern – Honestly address the concern behind a difficult situation
+- Importance of language - How can we work on this problem **together**?
+- Be willing to trade, **if** it makes sense
+@snapend
+---
+## Deadlock
+- Bring in other people, or a third party
+- Take a step back, then move forward again
+- Take a "time out"
+- Avoid postponement
+---
+@snap[midpoint span-90 text-06]
+## Closing
+- Careful about pushing your luck... when you've got your main demand adding more and more extras
+- "It sounds like we have an agreement"
+- Summarise and shake on it
+- Make sure there is nothing else... no "Columbo" moment
+- Agree next steps – Who, what, when?
+- Writing it up - "If you’ve got it in writing, you’ve got a prayer. If it ain’t in writing, you’ve got thin air"
+- Don't rub their noses in it, stay professional
+- Debrief
+- Follow up
+@snapend
+---
+## Exercises
+- What are your negotiables?
+- What have you negotiated on recently?
+- Example: You have to hire a dev to do your website/app
+- How can you practice your negotiating skills?
