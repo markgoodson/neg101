@@ -54,7 +54,7 @@ Exercises
 ---
 
 ## Ethics
-
+@snap[midpoint span-90 text-06]
 - We are the good guys
 - It's a small world and getting smaller
 - You may be dealing with someone for a very long time
@@ -62,7 +62,7 @@ Exercises
     - Uncertainty increases the likelihood that we will be unethical [Lewicki, Ohio State University] 
     - Powerlessness: Studies found that a lack of outside options increased negotiator deception
     - Anonymous victims
-
+@snapend
 ---
 ## Preparation
 - The importance of preparation
@@ -94,7 +94,7 @@ Exercises
 - Transactional analysis: Adult-adult [Games People Play, Eric Berne]
 ---
 ## Tilting the playing field in your favour
-
+@snap[midpoint span-90 text-06]
 - Location
 - Time
 - Numbers
@@ -106,7 +106,7 @@ Exercises
     - The power of the written word
     - List prices
     - Example... maintenance is not negotiable  
-
+@snapend
 ---
 ## Sizing up the situation
 Are you in a negotiation or still selling?
@@ -140,24 +140,26 @@ Maximisers and satisficers [Schwartz, Swarthmore College]
 - Not being creepy... but less likely to be unethical
 - Manners
 - Professional, business-like, but friendly and open to discussion
-Set the scene... you're there to see if you can reach an agreement and do some business
+- Set the scene... you're there to see if you can reach an agreement and do some business
 ---
 ## How to start?
-Let them go first?
-Research says generally not effective
-Perhaps if the issue is complex and they are experienced
-If you go first
-Anchoring
-Maybe better if simple/price negotiation
-Leave yourself some negotiating room
-Shock them with your first offer?
-Go with the highest/lowest credible offer
-Attitude, if we do want a win-win situation
-Zero-Sum game. Fixed size pie.
-By working together on a solution (win-win) can perhaps make a bigger pie
-I win, you win, the relationship wins
-Create win-win situation
-Flexibility, don't dig trenches
+- Let them go first?
+    - Research says generally not effective
+    - Perhaps if the issue is complex and they are experienced
+- If you go first
+    - Anchoring
+    - Maybe better if simple/price negotiation
+    - Leave yourself some negotiating room
+- Shock them with your first offer?
+- Go with the highest/lowest credible offer
+---
+## Attitude, if we do want a win-win situation
+- Zero-Sum game. Fixed size pie.
+- By working together on a solution (win-win) can perhaps make a bigger pie
+- I win, you win, the relationship wins
+- Create win-win situation
+- Flexibility, don't dig trenches
+---
 Bargaining
 The most important (two letter) word in negotiation
 Asking questions
