@@ -52,7 +52,7 @@ Exercises
 - Buyer: You've got nothing to lose...
 - "... in a way, every social action is a negotiation, a compromise between 'his,' 'her' or 'their' wish and yours."  [Andy Warhol]
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-07]
 ## Ethics
 - We are the good guys
 - It's a small world and getting smaller
@@ -63,6 +63,7 @@ Exercises
     - Anonymous victims
 @snapend
 ---
+@snap[midpoint span-90 text-07]
 ## Preparation
 - The importance of preparation
 - Set your goal
@@ -72,6 +73,7 @@ Exercises
 - BATNA
 - BATNA for sellers
 - *Exercise: Understanding your negotiables*
+@snapend
 ---
 ## The importance of preparation
 - Don't be surprised if someone wants to negotiate!
@@ -181,7 +183,7 @@ Exercises
 - Important to know your negotiables
 - It’s why negotiation is *creative*
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-07]
 ## Asking questions
 - Like sales
 - "Great negotiators are great listeners" [Former NYPD detective Dominick Misino]
@@ -209,7 +211,7 @@ Exercises
 - Split the difference? : NO! : Low/high offer then small movement
 - Jam tomorrow [Lewis Carroll]
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-07]
 ## Dealing with angry/pushy negotiators
 - Don't react
 - If you *do* react, don't over-react
@@ -229,7 +231,7 @@ Exercises
 - Remind them of all the **value** they are getting
 - Don't change the price, change the *package*
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-07]
 ## General tactics
 - Be prepared to justify what you're asking for
 - You need someone else's permission
@@ -242,7 +244,7 @@ Exercises
 - If it all gets too much call a time-out
 @snapend
 ---
-@snap[midpoint span-90 text-06]
+@snap[midpoint span-90 text-07]
 ## Win-win tactics
 - Think about both the other side's personal and business/organisation objectives
 - Demands/ultimatums: Acknowledge and reframe to a more positive/joint focus
