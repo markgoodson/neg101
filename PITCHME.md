@@ -16,7 +16,7 @@ Exercises
 - The reality
 - Ethics
 ---
-@snap[midpoint text-06]
+@snap[midpoint span-60 text-06]
 ## What is negotiation?
 
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
