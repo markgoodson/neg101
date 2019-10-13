@@ -18,12 +18,12 @@ Exercises
 ---
 
 ## What is negotiation?
-
+@snap[midpoint text-06]
 - The process of discussing something with someone in order to reach an agreement with them [Cambridge Dictionary]
 - Bargaining process between two or more parties seeking to discover a common ground and reach an agreement to settle a matter of mutual concern or resolve a conflict [Business Dictionary]
 - The act of settling or arranging the terms and conditions of a bargain, sale, or other business transaction [The Law Dictionary]
 - It involves people interacting to agree how to get something done [Goodson 2018]
-
+@snapend
 ---
 ## Negotiaphobia
 - Like sales, negotiation is something that a lot of people don't like doing. Why?
