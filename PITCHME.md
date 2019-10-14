@@ -1,7 +1,7 @@
 ---?image=rsz_1rsz_hands_shrink.jpg
 @css[text-25 text-white](Negotiation 101)
 
---- 
+---?image=hands_40.png 
 ## Negotiation 101
 - Introduction to negotiation
 - Preparation
@@ -9,7 +9,7 @@
 - Bargaining
 - Closing
 Exercises
----
+---?image=hands_40.png 
 ## Introduction to negotiation
 - What is negotiation?
 - Negotiaphobia
@@ -64,7 +64,7 @@ Exercises
     - Powerlessness: Studies found that a lack of outside options increased negotiator deception
     - Anonymous victims
 @snapend
----
+---?image=hands_40.png
 @snap[midpoint span-90 text-07]
 ## Preparation
 - The importance of preparation
@@ -132,7 +132,7 @@ Exercises
 - Important they understand you are in demand
 - Time - If they don't buy it, someone else will... soon!
 - USP - Features, advantages, BENEFITS
----
+---?image=hands_40.png
 ## Opening
 - Preliminaries
 - How to start?
@@ -164,7 +164,7 @@ Exercises
 - I win, you win, the relationship wins
 - Create win-win situation
 - Flexibility, don't dig trenches
----
+---?image=hands_40.png
 @snap[midpoint span-90 text-07]
 ## Bargaining
 - The most important (two letter) word in negotiation
@@ -262,7 +262,7 @@ Exercises
 - Take a step back, then move forward again
 - Take a "time out"
 - Avoid postponement
----
+---?image=hands_40.png
 @snap[midpoint span-90 text-06]
 ## Closing
 - Careful about pushing your luck... when you've got your main demand adding more and more extras
@@ -275,7 +275,7 @@ Exercises
 - Debrief
 - Follow up
 @snapend
----
+---?image=hands_40.png
 ## Exercises
 - What are your negotiables?
 - What have you negotiated on recently?
