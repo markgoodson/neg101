@@ -1,5 +1,7 @@
 ---?image=rsz_1rsz_hands_shrink.jpg
+@snap[midpoint text-white]
 # Negotiation 101
+@snapend
 --- 
 ## Negotiation 101
 - Introduction to negotiation
