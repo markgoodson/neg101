@@ -1,4 +1,4 @@
----?image=rsz_hands_shrink.jpg
+---?image=rsz_1rsz_hands_shrink.jpg
 # Negotiation 101
 --- 
 ## Negotiation 101
