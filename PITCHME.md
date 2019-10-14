@@ -1,7 +1,6 @@
 ---?image=rsz_1rsz_hands_shrink.jpg
-@snap[midpoint text-white]
-# Negotiation 101
-@snapend
+@css[text-25 text-white](Negotiation 101)
+
 --- 
 ## Negotiation 101
 - Introduction to negotiation
