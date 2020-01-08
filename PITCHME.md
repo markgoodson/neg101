@@ -145,7 +145,7 @@ Exercises
 - Professional, business-like, but friendly and open to discussion
 - Set the scene... you're there to see if you can reach an agreement and do some business
 ---
-@snap[midpoint span-90 text-07]
+@snap[midpoint span-90 text-08]
 ## How to start?
 - Let them go first?
     - Research says generally not effective
